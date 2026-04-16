@@ -5,10 +5,7 @@
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-Async-orange?logo=sqlalchemy)](https://www.sqlalchemy.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![SQLite](https://img.shields.io/badge/Database-SQLite-green?logo=sqlite)](https://sqlite.org/)
-[![SQLite](https://img.shields.io/badge/Database-SQLite-green?logo=sqlite)](https://sqlite.org/)
-[![SQLite](https://img.shields.io/badge/Database-SQLite-green?logo=sqlite)](https://sqlite.org/)
-[![SQLite](https://img.shields.io/badge/Database-SQLite-green?logo=sqlite)](https://sqlite.org/)
-[![SQLite](https://img.shields.io/badge/Database-SQLite-green?logo=sqlite)](https://sqlite.org/)
+
 **REST API для управления домашней библиотекой книг.** Полный CRUD с валидацией, асинхронной БД и автодокументацией.
 
 ## ✨ Возможности
