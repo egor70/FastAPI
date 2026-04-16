@@ -65,7 +65,7 @@ Home-Library-API/
 
 ### 1. Клонирование
 ```bash
-git clone https://github.com/Mustafath/Home-Library-API.git
+git clone https://github.com/egor70/FastAPI/tree/main/Home-Library-API
 cd Home-Library-API/my_library
 ```
 
@@ -147,22 +147,5 @@ curl -X DELETE "http://localhost:8000/books/1"
 
 ---
 
-### 🤝 Contributing
-Fork проекта
 
-*Создай feature branch (git checkout -b feature/AmazingFeature)*
 
-*Commit изменения (git commit -m 'Add some AmazingFeature')*
-
-*Push (git push origin feature/AmazingFeature)*
-
-*Открой Pull Request*
-
----
-
-### 📄 Лицензия
-MIT — свободное использование!
-
-* ⭐ Star проект если понравилось!
-* 🐛 Issues/PRs welcome
-* 📞 Связаться: Mustafath GitHub
