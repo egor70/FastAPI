@@ -65,7 +65,7 @@ Home-Library-API/
 
 ### 1. Клонирование
 ```bash
-git clone https://github.com/egor70/FastAPI/tree/main/Home-Library-API
+git clone https://github.com/egor70/FastAPI.git
 cd Home-Library-API/my_library
 ```
 
